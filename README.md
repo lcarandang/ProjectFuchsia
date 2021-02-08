@@ -1,2 +1,2 @@
 # ProjectFuchsia
-Intermediate level boot2root style VM Walkthrough
+Intermediate level boot2root style VM
