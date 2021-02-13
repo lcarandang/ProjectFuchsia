@@ -1,8 +1,4 @@
 # ProjectFuchsia
-Intermediate level boot2root style VM
-# Hello
-Project Fuchsia
-## Hello
-Project Fuchsia
-### Hello
-Project Fuchsia
+Project Fuchsia is an Intermediate level boot2root style VM created by Drew Carandang, Eric Liu, and John MacDonald as a final project for Fullstack Academy's Cybersecurity Bootcamp. 
+
+
