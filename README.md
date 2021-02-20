@@ -4,3 +4,5 @@ Project Fuchsia is an Intermediate level boot2root style VM created by Drew Cara
 Capstone Presentation: https://www.youtube.com/watch?v=H_g3KBcvL1g
 
 Download: https://bit.ly/36SJ9Zh
+
+Please feel free to reach out to us at: projectfuchsiavm@gmail.com
